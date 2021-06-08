@@ -14,7 +14,7 @@
 <p align='center'>- 👋 Hi, I’m Karim.</p>
 <p align='center'>- 👀 I’m interested in self-taught learning.</p>
 <p align='center'>- 💞️ My dream is to create my own company of all kinds of electronic products and someday make a historic change.</p>
-<h2 align='center'>Stats</h2>
+<h3 align='center'>Stats</h3>
 <p align='center'>
     <img src="https://github-profile-trophy.vercel.app/?username=KarimRamirez&theme=onedark" />
 </p>
