@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/54/85/76/54857676ea0602efe5d31ea1d395bab6.gif" width="100" height="100" />
+<img src="https://i.pinimg.com/originals/54/85/76/54857676ea0602efe5d31ea1d395bab6.gif" width="220" height="123" />
 - 👋 Hi, I’m Karim
 - 👀 I’m interested in self-taught learning
 - 🌱 I’m currently learning Lua, Java, CSS, JS, Python, Android 11, Kotlin, C, C++, Printed circuit design & Arduino
