@@ -42,22 +42,46 @@
 </div>
 
 <h3 align='center'>Apps</h3>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
 
 <h3 align='center'>Videogames</h3>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
 
 <h3 align='center'>Other</h3>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
 
 <h2 align='center'>Contact Me</h2>
 <p align='center'>📚 I keep studying 📚</p>
