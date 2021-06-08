@@ -1,7 +1,9 @@
 <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Luffy.gif' width='22.5%' align='left'/>
 <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Zoro.gif' width='22.5%' align='right'/>
-- 👋 Hi, I’m Karim
-<img src='https://komarev.com/ghpvc/?username=KarimRamirez&color=blue' />
+<p align='center'>
+    - 👋 Hi, I’m Karim
+    <img src='https://komarev.com/ghpvc/?username=KarimRamirez&color=blue' />
+</p>
 
 | <a href="" target="_blank">Lua</a> | <a href="" target="_blank">Java</a> | <a href="" target="_blank">CSS3</a> | <a href="" target="_blank">Javascript</a> |
 | :---: | :---: | :---: | :---: |
