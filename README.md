@@ -14,7 +14,7 @@
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Kotlin.png' height='42px'/>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C.png' height='42px'/>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C++.png' height='42px'/>
-    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/PrintedCircuitDesign.png' height='42px'/>
+    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/PrintedCircuitDesign.jpg' height='42px'/>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Arduino.png' height='42px'/>
 </p>
 <p align='center'>- 📫 ¿How to reach me? I keep studying</p>
