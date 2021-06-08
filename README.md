@@ -5,6 +5,7 @@
 <p align='center'>- 💞️ My dream is to create my own company of all kinds of electronic products and one day be able to work at Google</p>
 <p align='center'>- 🌱 I’m currently learning Lua, Java, CSS3, JS, Python, Android 11, Kotlin, C, C++, Printed circuit design & Arduino</p>
 <p align='center'>
+    <p>Lua</p>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Lua.png' height='42px'/>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Java.png' height='42px'/>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/CSS3.png' height='42px'/>
