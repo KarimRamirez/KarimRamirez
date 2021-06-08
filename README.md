@@ -5,10 +5,10 @@
     <img src='https://komarev.com/ghpvc/?username=KarimRamirez&color=blue' />
 </p>
 <br />
-the world has <br />
-to change <br />
-for the<br />
-better. <br />
+<p align='center'>the world has</p>
+<p align='center'>to change</p>
+<p align='center'>for the</p>
+<p align='center'>better.</p>
 <h2 align='center'>Information</h2>
 <p align='center'>- 👋 Hi, I’m Karim</p>
 <p align='center'>- 👀 I’m interested in self-taught learning</p>
