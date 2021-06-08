@@ -7,7 +7,7 @@
 </p>
 
 | <a href="" target="_blank">Lua</a> | <a href="" target="_blank">Java</a> | <a href="" target="_blank">CSS3</a> | <a href="" target="_blank">Javascript</a> | <a href="" target="_blank">Python</a> | <a href="" target="_blank">Android11</a>
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | <img align='center' src='' width="100px" height='100px'> | <img align='center' src='' width="100px"  height='100px'> | <img align='center' width="100px" src='' height='100px'>  | <img align='center' src='' width="100px" height='100px'> |
 
 
