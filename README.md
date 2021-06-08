@@ -1,7 +1,6 @@
 <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Luffy.gif' width='22.5%' align='left'/>
 <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Zoro.gif' width='22.5%' align='right'/>
-
-![](https://komarev.com/ghpvc/?username=KarimRamirez&color=blue)
+<img src='https://komarev.com/ghpvc/?username=KarimRamirez&color=blue' width='22.5%' align='center'/>
 <p align='center'>- 👋 Hi, I’m Karim</p>
 <p align='center'>- 👀 I’m interested in self-taught learning</p>
 <p align='center'>- 💞️ My dream is to create my own company of all kinds of electronic products and one day be able to work at Google</p>
