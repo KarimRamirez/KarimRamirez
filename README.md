@@ -8,7 +8,7 @@
 
 | <a href="" target="_blank">Lua</a> | <a href="" target="_blank">Java</a> | <a href="" target="_blank">CSS3</a> | <a href="" target="_blank">Javascript</a> | <a href="" target="_blank">Python</a> | <a href="" target="_blank">Android11</a>
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img align='center' src='' width="100px" height='100px'> | <img align='center' src='' width="100px"  height='100px'> | <img align='center' width="100px" src='' height='100px'>  | <img align='center' src='' width="100px" height='100px'> |
+| <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Lua.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Java.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/CSS3.png' height='100px'>  | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Javascript.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Python.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Android11.png' width="100px" height='100px'> |
 
 
 <p align='center'>- 👀 I’m interested in self-taught learning</p>
@@ -16,11 +16,11 @@
 <p align='center'>- 🌱 I’m currently learning Lua, Java, CSS3, JS, Python, Android 11, Kotlin, C, C++, Printed circuit design & Arduino</p>
 <p align='center'>
     <img src='' height='42px'/>
-    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Java.png' height='42px'/>
-    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/CSS3.png' height='42px'/>
-    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Javascript.png' height='42px'/>
-    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Python.png' height='42px'/>
-    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Android11.png' height='42px'/>
+    <img src='' height='42px'/>
+    <img src='' height='42px'/>
+    <img src='' height='42px'/>
+    <img src='' height='42px'/>
+    <img src='' height='42px'/>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Kotlin.png' height='42px'/>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C.png' height='42px'/>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C++.png' height='42px'/>
