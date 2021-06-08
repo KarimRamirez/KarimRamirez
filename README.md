@@ -5,10 +5,10 @@
     <img src='https://komarev.com/ghpvc/?username=KarimRamirez&color=blue' />
 </p>
 <br />
-<p align='left'>the world has</p> <p align='right'>never take</p>
-<p align='left'>to change</p> <p align='right'>the easy</p>
-<p align='left'>for the</p> <p align='right'>way.</p>
-<p align='left'>better.</p>
+<div align='left'>the world has</div> <div align='right'>never take</div>
+<div align='left'>to change</div> <div align='right'>the easy</div>
+<div align='left'>for the</div> <div align='right'>way.</div>
+<div align='left'>better.</div>
 
 <h2 align='center'>Information</h2>
 <p align='center'>- 👋 Hi, I’m Karim</p>
