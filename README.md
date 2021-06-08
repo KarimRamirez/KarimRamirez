@@ -10,8 +10,8 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Lua.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Java.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/CSS3.png' height='100px'>  | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Javascript.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Python.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Android11.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Kotlin.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C.png' width="100px" height='100px'> |
 
-| <a href="" target="_blank">C</a> | <a href="" target="_blank">C++</a> | <a href="" target="_blank">PrintedCircuitDesign</a> | <a href="" target="_blank">Arduino</a>
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="" target="_blank">C++</a> | <a href="" target="_blank">PrintedCircuitDesign</a> | <a href="" target="_blank">Arduino</a>
+| :---: | :---: | :---: |
 
 
 <p align='center'>- 👀 I’m interested in self-taught learning</p>
