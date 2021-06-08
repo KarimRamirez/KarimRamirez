@@ -8,7 +8,7 @@
 
 | <a href="" target="_blank">Lua</a> | <a href="" target="_blank">Java</a> | <a href="" target="_blank">CSS3</a> | <a href="" target="_blank">Javascript</a> | <a href="" target="_blank">Python</a> | <a href="" target="_blank">Android11</a> | <a href="" target="_blank">Kotlin</a>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Lua.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Java.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/CSS3.png' height='100px'>  | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Javascript.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Python.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Android11.png' width="100px" height='100px'> |
+| <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Lua.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Java.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/CSS3.png' height='100px'>  | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Javascript.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Python.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Android11.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Kotlin.png' width="100px" height='100px'> |
 
 | <a href="" target="_blank">C</a> | <a href="" target="_blank">C++</a> | <a href="" target="_blank">PrintedCircuitDesign</a> | <a href="" target="_blank">Arduino</a>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -24,7 +24,7 @@
     <img src='' height='42px'/>
     <img src='' height='42px'/>
     <img src='' height='42px'/>
-    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Kotlin.png' height='42px'/>
+    <img src='' height='42px'/>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C.png' height='42px'/>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C++.png' height='42px'/>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/PrintedCircuitDesign.jpg' height='42px'/>
