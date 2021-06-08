@@ -5,12 +5,12 @@
     <img src='https://komarev.com/ghpvc/?username=KarimRamirez&color=blue' />
 </p>
 <br />
-<p align='left'>the world has</p>
+<p align='left'>the world has</p> <p align='right'>never take</p>
 <p align='left'>to change</p>
 <p align='left'>for the</p>
 <p align='left'>better.</p>
     
-<p align='right'>never take</p>
+
 <p align='right'>the easy</p>
 <p align='right'>way.</p>
 <h2 align='center'>Information</h2>
