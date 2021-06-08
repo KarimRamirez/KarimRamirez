@@ -26,15 +26,28 @@
 
 <h3 align='center'>Websites</h3>
 <a href="https://karimproyect1.netlify.app/" target="_blank">Proyect 1</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
 
 <h3 align='center'>Apps</h3>
-<a href="#" target="_blank">Coming soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
 
 <h3 align='center'>Videogames</h3>
-<a href="#" target="_blank">Coming soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
 
 <h3 align='center'>Other</h3>
-<a href="#" target="_blank">Coming soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
+<a href="#" target="_blank">Proyect Coming Soon...</a>
 
 <h2 align='center'>Contact Me</h2>
 <p align='center'>📚 I keep studying 📚</p>
