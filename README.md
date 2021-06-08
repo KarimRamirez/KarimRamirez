@@ -23,17 +23,17 @@
 | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C++.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/PrintedCircuitDesign.jpg' width="100px"  height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Arduino.png' width="100px"  height='100px'> |
 
 <h2 align='center'>Portfolio</h2>
-<h3>Websites</h3>
-<a href="https://karimproyect1.netlify.app/" target="_blank">Proyect 1</a>
-<h3>Apps</h3>
+<h3 align='center'>Websites</h3>
+<a href="https://karimproyect1.netlify.app/" target="_blank" align='center'>Proyect 1</a>
+<h3 align='center'>Apps</h3>
 <p align='center'>
     <img src='https://www.kyza.io/comingsoon.png' height='150px'>
 </p>
-<h3>Videogames</h3>
+<h3 align='center'>Videogames</h3>
 <p align='center'>
     <img src='https://www.kyza.io/comingsoon.png' height='150px'>
 </p>
-<h3>Other</h3>
+<h3 align='center'>Other</h3>
 <p align='center'>
     <img src='https://www.kyza.io/comingsoon.png' height='150px'>
 </p>
