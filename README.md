@@ -29,15 +29,15 @@
 </p>
 <h3 align='center'>Apps</h3>
 <p align='center'>
-    <img src='https://www.kyza.io/comingsoon.png' height='150px'>
+    <a href="#" target="_blank">Coming soon...</a>
 </p>
 <h3 align='center'>Videogames</h3>
-<p align='center'>
-    <img src='https://www.kyza.io/comingsoon.png' height='150px'>
+<<p align='center'>
+    <a href="#" target="_blank">Coming soon...</a>
 </p>
 <h3 align='center'>Other</h3>
 <p align='center'>
-    <img src='https://www.kyza.io/comingsoon.png' height='150px'>
+    <a href="#" target="_blank">Coming soon...</a>
 </p>
 
 <h2 align='center'>Contact Me</h2>
