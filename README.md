@@ -4,6 +4,7 @@
 <p align='center'>
     <img src='https://komarev.com/ghpvc/?username=KarimRamirez&color=blue' />
 </p>
+<p></p>
 <h2 align='center'>Information</h2>
 <p align='center'>- 👋 Hi, I’m Karim</p>
 <p align='center'>- 👀 I’m interested in self-taught learning</p>
