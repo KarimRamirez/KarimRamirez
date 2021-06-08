@@ -1,8 +1,12 @@
 <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Luffy.gif' width='22.5%' align='left'/>
 <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Zoro.gif' width='22.5%' align='right'/>
 - 👋 Hi, I’m Karim
+
 | <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://dotmsn.com" target="_blank">**Dot Messenger**</a> | <a href="https://enhancedtwitch.com" target="_blank">**EnhancedTwitch**</a> | <a href="https://github.com/strawci" target="_blank">**StrawCI**</a> |
 | :---: | :---: | :---: | :---: |
+| <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/77628453?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/81942507?s=200&v=4' width="100px" height='100px'> |
+| <a href="http://slicklearn.xyz" target="_blank">`https://slicklearn.xyz`</a> | <a href="http://dotmsn.com" target="_blank">`https://dotmsn.com`</a> | <a href="http://enhancedtwitch.com" target="_blank">`https://enhancedtwitch.com`</a> | <a href="https://github.com/strawci" target="_blank">`https://github.com/strawci`</a> |
+
 <img src='https://komarev.com/ghpvc/?username=KarimRamirez&color=blue' />
 <p align='center'>- 👀 I’m interested in self-taught learning</p>
 <p align='center'>- 💞️ My dream is to create my own company of all kinds of electronic products and one day be able to work at Google</p>
