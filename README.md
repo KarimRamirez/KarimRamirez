@@ -10,10 +10,6 @@
 <div align='left'>for the</div> <div align='right'>way.</div>
 <div align='left'>better.</div>
 
-<h3 align='center'>Stats</h3>
-<p align='center'>
-    <img src="https://github-profile-trophy.vercel.app/?username=KarimRamirez&theme=onedark" />
-</p>
 <h2 align='center'>Information</h2>
 <p align='center'>- 👋 Hi, I’m Karim.</p>
 <p align='center'>- 👀 I’m interested in self-taught learning.</p>
