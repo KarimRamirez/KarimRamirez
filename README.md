@@ -10,7 +10,6 @@
 <p align='center'>- 🌱 I’m currently learning...</p>
 
 <h2 align="center">I’m currently learning...</h2>
-<p align="center">asd</p>
 
 | <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" target="_blank">Lua</a> | <a href="https://www.java.com/" target="_blank">Java</a> | <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS3</a> | <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">Javascript</a> | <a href="https://www.python.org/" target="_blank">Python</a> | <a href="https://www.android.com/intl/en_en/android-11/" target="_blank">Android11</a> | <a href="https://kotlinlang.org/" target="_blank">Kotlin</a> | <a href="https://en.wikipedia.org/wiki/C_(programming_language)/" target="_blank">C</a>
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
