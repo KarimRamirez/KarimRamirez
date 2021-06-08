@@ -17,6 +17,7 @@
 <h3 align='center'>Stats</h3>
 <p align='center'>
     <img src="https://github-profile-trophy.vercel.app/?username=KarimRamirez&theme=onedark" />
+    ![Metrics](https://metrics.lecoq.io/KarimRamirez?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FChihuahua)
 </p>
 <p align='center'>- 🌱 I’m currently learning...</p>
 
