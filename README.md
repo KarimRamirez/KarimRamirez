@@ -25,11 +25,13 @@
 <h2 align='center'>Portfolio</h2>
 
 <h3 align='center'>Websites</h3>
+<p>
 <a href="https://karimproyect1.netlify.app/" target="_blank">Proyect 1</a>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</p>
 
 <h3 align='center'>Apps</h3>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
