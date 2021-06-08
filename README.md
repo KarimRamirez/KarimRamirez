@@ -1,7 +1,7 @@
 <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Luffy.gif' width='22.5%' align='left'/>
 <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Zoro.gif' width='22.5%' align='right'/>
 <p align='center'>
-    <p>- 👋 Hi, I’m Karim</p>
+    <p align='center'>- 👋 Hi, I’m Karim</p>
     <img src='https://komarev.com/ghpvc/?username=KarimRamirez&color=blue' />
 </p>
 
