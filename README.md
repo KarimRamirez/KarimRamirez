@@ -1,5 +1,5 @@
-<img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Luffy.gif' width='20%' align='left'>
-<img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Zoro.gif' width='20%' align='right'>
+<img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Luffy.gif' width='40%' align='left'>
+<img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Zoro.gif' width='40%' align='right'>
 
 
 <p align='center'>- 👋 Hi, I’m Karim</p>
