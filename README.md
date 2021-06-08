@@ -1,13 +1,14 @@
 <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Luffy.gif' width='22.5%' align='left'/>
 <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Zoro.gif' width='22.5%' align='right'/>
 - 👋 Hi, I’m Karim
+<img src='https://komarev.com/ghpvc/?username=KarimRamirez&color=blue' />
 
 | <a href="" target="_blank">Lua</a> | <a href="" target="_blank">Java</a> | <a href="" target="_blank">CSS3</a> | <a href="" target="_blank">Javascript</a> |
 | :---: | :---: | :---: | :---: |
 | <img align='center' src='' width="100px" height='100px'> | <img align='center' src='' width="100px"  height='100px'> | <img align='center' width="100px" src='' height='100px'>  | <img align='center' src='' width="100px" height='100px'> |
 | <a href="" target="_blank">``</a> | <a href="" target="_blank">``</a> | <a href="" target="_blank">``</a> | <a href="" target="_blank">``</a> |
 
-<img src='https://komarev.com/ghpvc/?username=KarimRamirez&color=blue' />
+
 <p align='center'>- 👀 I’m interested in self-taught learning</p>
 <p align='center'>- 💞️ My dream is to create my own company of all kinds of electronic products and one day be able to work at Google</p>
 <p align='center'>- 🌱 I’m currently learning Lua, Java, CSS3, JS, Python, Android 11, Kotlin, C, C++, Printed circuit design & Arduino</p>
