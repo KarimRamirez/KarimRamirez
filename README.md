@@ -37,5 +37,5 @@
 <a href="#" target="_blank">Coming soon...</a>
 
 <h2 align='center'>Contact Me</h2>
-<p align='center'>I keep studying</p>
+<p align='center'>📚 I keep studying 📚</p>
 
