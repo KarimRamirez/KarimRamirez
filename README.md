@@ -27,6 +27,6 @@
     <img src='https://www.kyza.io/comingsoon.png' height='150px'>
 </p>
 
-<h2 align='center'>Contact me</h2>
+<h2 align='center'>Contact Me</h2>
 <p align='center'>I keep studying</p>
 
