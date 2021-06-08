@@ -23,7 +23,9 @@
 | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C++.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/PrintedCircuitDesign.jpg' width="100px"  height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Arduino.png' width="100px"  height='100px'> |
 
 <h2 align='center'>Portfolio</h2>
-<img align='center' src='https://www.kyza.io/comingsoon.png' height='150px'>
+<p align='center'>
+    <img src='https://www.kyza.io/comingsoon.png' height='150px'>
+</p>
 
 <p align='center'>- 📫 ¿How to reach me? I keep studying</p>
 
