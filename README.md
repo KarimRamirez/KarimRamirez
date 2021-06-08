@@ -6,7 +6,12 @@
     <img src='https://komarev.com/ghpvc/?username=KarimRamirez&color=blue' />
 </p>
 
-| <a href="" target="_blank">Lua</a> | <a href="" target="_blank">Java</a> | <a href="" target="_blank">CSS3</a> | <a href="" target="_blank">Javascript</a> | <a href="" target="_blank">Python</a> | <a href="" target="_blank">Android11</a>
+| <a href="" target="_blank">Lua</a> 
+| <a href="" target="_blank">Java</a> 
+| <a href="" target="_blank">CSS3</a> 
+| <a href="" target="_blank">Javascript</a> 
+| <a href="" target="_blank">Python</a> 
+| <a href="" target="_blank">Android11</a>
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Lua.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Java.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/CSS3.png' height='100px'>  | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Javascript.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Python.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Android11.png' width="100px" height='100px'> |
 
