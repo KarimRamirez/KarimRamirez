@@ -1,5 +1,5 @@
-<img src="https://i.pinimg.com/originals/54/85/76/54857676ea0602efe5d31ea1d395bab6.gif" width="220" height="123"/>
-<img align='left' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Luffy.gif' width='20%'>
+<img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Luffy.gif' width='20%' align='left'>
+<img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/img/Zoro.gif' width='20%' align='right'>
 
 - 👋 Hi, I’m Karim
 - 👀 I’m interested in self-taught learning
