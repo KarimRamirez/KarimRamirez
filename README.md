@@ -6,6 +6,16 @@
 <p align='center'>- 🌱 I’m currently learning Lua, Java, CSS3, JS, Python, Android 11, Kotlin, C, C++, Printed circuit design & Arduino</p>
 <p align='center'>
     <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Lua.png' height='42px'/>
+    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Java.png' height='42px'/>
+    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/CSS3.png' height='42px'/>
+    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Javascript.png' height='42px'/>
+    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Python.png' height='42px'/>
+    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Android11.png' height='42px'/>
+    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Kotlin.png' height='42px'/>
+    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C.png' height='42px'/>
+    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C++.png' height='42px'/>
+    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/PrintedCircuitDesign.png' height='42px'/>
+    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Arduino.png' height='42px'/>
 </p>
 <p align='center'>- 📫 ¿How to reach me? I keep studying</p>
 
