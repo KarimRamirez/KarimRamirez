@@ -11,6 +11,7 @@
 | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Lua.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Java.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/CSS3.png' height='100px'>  | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Javascript.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Python.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Android11.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Kotlin.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C.png' width="100px" height='100px'> |
 | <a href="" target="_blank">C++</a> | <a href="" target="_blank">PrintedCircuitDesign</a> | <a href="" target="_blank">Arduino</a>
 | :---: | :---: | :---: |
+| <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C++.png' width="100px" height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/PrintedCircuitDesign.jpg' width="100px"  height='100px'> | <img align='center' src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Arduino.png' width="100px"  height='100px'> |
 
 
 <p align='center'>- 👀 I’m interested in self-taught learning</p>
@@ -25,9 +26,9 @@
     <img src='' height='42px'/>
     <img src='' height='42px'/>
     <img src='' height='42px'/>
-    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/C++.png' height='42px'/>
-    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/PrintedCircuitDesign.jpg' height='42px'/>
-    <img src='https://github.com/KarimRamirez/KarimRamirez/blob/main/learning/Arduino.png' height='42px'/>
+    <img src='' height='42px'/>
+    <img src='' height='42px'/>
+    <img src='' height='42px'/>
 </p>
 <p align='center'>- 📫 ¿How to reach me? I keep studying</p>
 
