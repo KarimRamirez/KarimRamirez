@@ -1,3 +1,4 @@
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 - 👋 Hi, I’m Karim
 - 👀 I’m interested in self-taught learning
 - 🌱 I’m currently learning Lua, Java, CSS, JS, Python, Android 11, Kotlin, C, C++, Printed circuit design & Arduino
