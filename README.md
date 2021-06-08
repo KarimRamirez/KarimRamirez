@@ -27,5 +27,6 @@
     <img src='https://www.kyza.io/comingsoon.png' height='150px'>
 </p>
 
-<p align='center'>- 📫 ¿How to reach me? I keep studying</p>
+<h2 align='center'>Contact me</h2>
+<p align='center'>I keep studying</p>
 
