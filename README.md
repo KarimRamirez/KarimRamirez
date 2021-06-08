@@ -6,7 +6,7 @@
 </p>
 <br />
 <div align='left'>the world has</div> <div align='right'>never take</div>
-<div align='left'>to change</div> <div align='right'>the easy</div>
+<div align='left'>to change</div> <div align='center'>fight for what you want</div> <div align='right'>the easy</div>
 <div align='left'>for the</div> <div align='right'>way.</div>
 <div align='left'>better.</div>
 
