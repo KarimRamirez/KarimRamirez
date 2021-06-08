@@ -27,9 +27,17 @@
 <h3 align='center'>Websites</h3>
 <div>
 <a href="https://karimproyect1.netlify.app/" target="_blank">Proyect 1</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
+</div>
+<div>
 <a href="#" target="_blank">Proyect Coming Soon...</a>
 </div>
 
