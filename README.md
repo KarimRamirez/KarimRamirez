@@ -84,5 +84,5 @@
 </div>
 
 <h2 align='center'>Contact Me</h2>
-<p align='center'>📚 I keep studying 📚</p>
+<p align='center'>👤 kontaktwithkarim@gmail.com 👤</p>
 
